@@ -74,7 +74,7 @@ When you send a file over the internetan event that takes place in software deve
 
 What is the Git History log?
 
-It lets you see into the future
+It shows a list of all the commits made to a repository
 
 ## Question 13
 
