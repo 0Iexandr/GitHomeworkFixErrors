@@ -110,4 +110,4 @@ Commit messages are a way of communication between team members
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet!
+By typing the command git help
