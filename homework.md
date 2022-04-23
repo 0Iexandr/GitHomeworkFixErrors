@@ -86,7 +86,7 @@ You send the committed changes in your local repository to the remote repository
 
 What is Github?
 
-A place for us to store and share our code.
+A place where over 73 million developers shape the future of software, together
 
 ## Question 15
 
