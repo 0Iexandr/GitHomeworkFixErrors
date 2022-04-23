@@ -92,7 +92,7 @@ A place where over 73 million developers shape the future of software, together
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+Send you code to GithubThis means you can have one version of a repository on one computer, another version on another computer, and one central version to which every copy refers
 
 ## Question 16
 
