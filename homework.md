@@ -68,7 +68,7 @@ You copy the repository from GitHub.com to your local machine
 
 What is a Pull Request?
 
-When you send a file over the internet
+When you send a file over the internetan event that takes place in software development when a contributor/developer is ready to begin the process of merging new code changes with the main project repository
 
 ## Question 12
 
