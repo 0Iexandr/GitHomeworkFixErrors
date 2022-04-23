@@ -80,7 +80,7 @@ It shows a list of all the commits made to a repository
 
 What does it meant to "push" changes to Github?
 
-You send the changes of your local repository to Github
+You send the committed changes in your local repository to the remote repository on GitHub
 
 ## Question 14
 
