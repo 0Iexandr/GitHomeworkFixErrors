@@ -98,7 +98,7 @@ Send you code to GithubThis means you can have one version of a repository on on
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+VS Code
 
 ## Question 17
 
