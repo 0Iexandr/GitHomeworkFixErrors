@@ -56,7 +56,7 @@ Sometimes while writing the commit message, we make a typing error
 
 What happens when you `fork` a repository?
 
-You delete it
+It allows you to freely experiment with changes without affecting the original project
 
 ## Question 10 
 
